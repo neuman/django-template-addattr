@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-template-addattr',
-    version=str(VERSION),
+    version=str(0.0.1),
     description="django-template-addattr",
     classifiers=[
         "Programming Language :: Python",
