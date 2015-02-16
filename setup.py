@@ -2,9 +2,9 @@ from setuptools import setup, find_packages
 from bootstrapform.meta import VERSION
 
 setup(
-    name='django-bootstrap-form',
+    name='django-template-addattr',
     version=str(VERSION),
-    description="django-bootstrap-form",
+    description="django-template-addattr",
     classifiers=[
         "Programming Language :: Python",
         "Topic :: Software Development :: Libraries :: Python Modules",
@@ -17,9 +17,9 @@ setup(
         "Programming Language :: Python :: 3.4",
     ],
     keywords='bootstrap,django',
-    author='tzangms',
-    author_email='tzangms@gmail.com',
-    url='http://github.com/tzangms/django-bootstrap-form',
+    author='neuman',
+    author_email='soloptimus@gmail.com',
+    url='http://github.com/neuman/django-template-addattr',
     license='BSD',
     test_suite='tests',
     install_requires = [
