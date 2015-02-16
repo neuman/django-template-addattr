@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='django-template-addattr',
+    name='djangoaddattr',
     version=str('0.0.1'),
-    description="django-template-addattr",
+    description="djangoaddattr",
     classifiers=[
         "Programming Language :: Python",
         "Topic :: Software Development :: Libraries :: Python Modules",
