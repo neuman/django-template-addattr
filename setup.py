@@ -1,5 +1,4 @@
 from setuptools import setup, find_packages
-from bootstrapform.meta import VERSION
 
 setup(
     name='django-template-addattr',
